@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BannerSubscribe should render correctly 1`] = `
+<div>
+  <div
+    class="w-full h-full max-w-[1400px] max-h-[756px] flex flex-col md:flex-row gap-7 mt-20"
+  >
+    <div
+      class="max-w-[392px] w-full h-full"
+    >
+      <div
+        class="hidden relative md:block w-full min-h-[756px]"
+      >
+        <img
+          alt="A male model is wearing beautiful clothes"
+          data-nimg="fill"
+          decoding="async"
+          sizes="50vw"
+          src="/_next/image?url=%2Fimg.jpg&w=3840&q=100"
+          srcset="/_next/image?url=%2Fimg.jpg&w=384&q=100 384w, /_next/image?url=%2Fimg.jpg&w=640&q=100 640w, /_next/image?url=%2Fimg.jpg&w=750&q=100 750w, /_next/image?url=%2Fimg.jpg&w=828&q=100 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=100 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=100 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=100 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=100 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=100 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: contain; color: transparent;"
+        />
+      </div>
+    </div>
+    <div
+      class="w-full h-[756px] flex flex-col items-center justify-center gap-2"
+    >
+      <h3
+        class="text-4xl md:w-[631px] font-volkhov text-center mt-16 text-primary-200"
+      >
+        Subscribe To Our Newsletter
+      </h3>
+      <p
+        class="max-w-[614px] text-center text-gray-500 font-poppins mt-5"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque duis ultrices sollicitudin aliquam sem. Scelerisque duis ultrices sollicitudin
+      </p>
+      <div
+        class="flex w-full flex-wrap md:flex-nowrap mb-6 md:mb-0 gap-4"
+      >
+        <div
+          class="group flex flex-col data-[hidden=true]:hidden w-full relative justify-end data-[has-label=true]:mt-[calc(theme(fontSize.small)_+_10px)] border-none shadow-2xl mt-7"
+          data-filled="true"
+          data-filled-within="true"
+          data-has-elements="true"
+          data-has-helper="true"
+          data-slot="base"
+        >
+          <div
+            class="h-full flex flex-col"
+            data-slot="main-wrapper"
+          >
+            <div
+              class="inline-flex tap-highlight-transparent flex-row items-center px-3 gap-3 !px-1 !pb-0 !gap-0 relative box-border border-b-medium shadow-[0_1px_0px_0_rgba(0,0,0,0.05)] border-default-200 !rounded-none hover:border-default-300 after:content-[''] after:w-0 after:origin-center after:bg-default-foreground after:absolute after:left-1/2 after:-translate-x-1/2 after:-bottom-[2px] after:h-[2px] group-data-[focus=true]:after:w-full min-h-10 rounded-medium transition-background motion-reduce:transition-none !duration-150 after:transition-width motion-reduce:after:transition-none h-20 w-full max-w-[631px]"
+              data-slot="input-wrapper"
+              style="cursor: text;"
+            >
+              <div
+                class="inline-flex w-full items-center h-full box-border pb-1.5"
+                data-slot="inner-wrapper"
+              >
+                <input
+                  aria-label="Enter your email address"
+                  class="w-full font-normal bg-transparent !outline-none focus-visible:outline-none data-[has-start-content=true]:ps-1.5 data-[has-end-content=true]:pe-1.5 file:cursor-pointer file:bg-transparent file:border-0 autofill:bg-transparent bg-clip-text text-2md group-data-[has-value=true]:text-background-400 placeholder:text-background-400 px-5"
+                  data-slot="input"
+                  id="react-aria-:r0:"
+                  placeholder="Enter your email address"
+                  title=""
+                  type="text"
+                  value=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button
+        class="z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-4 min-w-20 gap-2 rounded-medium [&>svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none border-default data-[hover=true]:opacity-hover border-1 bg-primary-300 text-foreground-100 disabled:opacity-50 w-full py-5 text-base rounded-base data-[pressed=true]:scale-[1] font-poppins max-w-52 h-14 mt-10"
+        type="button"
+      >
+        Subscribe Now
+      </button>
+    </div>
+    <div
+      class="max-w-[392px] w-full h-full"
+    >
+      <div
+        class="hidden relative md:block w-full min-h-[756px]"
+      >
+        <img
+          alt="A female model is wearing beautiful clothes"
+          data-nimg="fill"
+          decoding="async"
+          sizes="50vw"
+          src="/_next/image?url=%2Fimg.jpg&w=3840&q=100"
+          srcset="/_next/image?url=%2Fimg.jpg&w=384&q=100 384w, /_next/image?url=%2Fimg.jpg&w=640&q=100 640w, /_next/image?url=%2Fimg.jpg&w=750&q=100 750w, /_next/image?url=%2Fimg.jpg&w=828&q=100 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=100 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=100 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=100 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=100 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=100 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: contain; color: transparent;"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

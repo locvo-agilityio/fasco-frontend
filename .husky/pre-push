@@ -1,0 +1,3 @@
+
+cd ./fasco
+pnpm test && pnpm build

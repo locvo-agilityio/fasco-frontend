@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardNewArrival should render correctly 1`] = `
+<div>
+  <a
+    class="flex flex-col relative overflow-hidden h-auto text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-small rounded-large transition-transform-background motion-reduce:transition-none w-[386px] py-4 px-6 hover:shadow-2xl hover:cursor-pointer"
+    href="/products/1"
+    tabindex="-1"
+  >
+    <div
+      class="relative p-3 flex-auto flex-col place-content-inherit align-items-inherit break-words text-left overflow-y-auto subpixel-antialiased flex items-center w-full h-60 rounded-regular"
+    >
+      <img
+        alt="Sofa"
+        data-nimg="fill"
+        decoding="async"
+        sizes="50vw"
+        src="/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=3840&q=75"
+        srcset="/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51JpA4Olu4L._AC_UL1157_.jpg&w=3840&q=75 3840w"
+        style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent;"
+      />
+    </div>
+    <div
+      class="p-3 h-auto flex overflow-hidden color-inherit subpixel-antialiased rounded-b-large w-full flex-col items-start text-small justify-between"
+    >
+      <div
+        class="w-full flex justify-between gap-2"
+      >
+        <div>
+          <b
+            class="text-primary-200 font-poppins text-md"
+          >
+            Sofa
+          </b>
+          <p
+            class="mt-1 text-gray-600 text-xs font-medium"
+          >
+            Al Karam
+          </p>
+        </div>
+        <div
+          class="flex gap-1"
+        >
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+        </div>
+      </div>
+      <p
+        class="mt-6 text-primary-200 font-medium"
+      >
+        (
+        4.1k
+        ) Customer Reviews
+      </p>
+      <div
+        class="w-full mt-6 flex justify-between"
+      >
+        <b
+          class="text-primary-200 font-poppins text-3md"
+        >
+          $ 
+          9.6k
+        </b>
+        <p
+          class="text-danger-600"
+        >
+          Almost Sold Out
+        </p>
+      </div>
+    </div>
+  </a>
+</div>
+`;

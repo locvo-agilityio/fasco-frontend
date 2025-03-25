@@ -1,0 +1,15 @@
+export const ROUTES = {
+  LOGIN: '/sign-in',
+  SIGN_UP: '/sign-up',
+  HOME: '/',
+  DEALS: '/deals',
+  NEW_ARRIVALS: '/new-arrivals',
+  PACKAGES: '/packages',
+  SHOP: '/shop',
+  PRODUCTS: '/products',
+  PRODUCT_DETAIL: (id: string) => `/products/${id}`,
+  PAGES: '/pages',
+  PROFILE: '/profile',
+  WHISTLIST: '/whistlist',
+  CART: '/cart',
+};
