@@ -1,2 +1,0 @@
-cd ./fasco
-npx --no -- commitlint --edit ${1}
