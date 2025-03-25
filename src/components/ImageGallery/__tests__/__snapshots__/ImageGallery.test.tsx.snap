@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImageGallery should render correctly 1`] = `
+<div>
+  <div
+    class="flex flex-col md:flex-row items-center md:items-start gap-5"
+  >
+    <div
+      class="flex md:flex-col gap-6"
+    >
+      <div
+        class="w-14 h-[77px] overflow-hidden cursor-pointer relative border-2 border-blue-500"
+      >
+        <img
+          alt="Thumbnail 1"
+          data-nimg="fill"
+          decoding="async"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          src="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent;"
+        />
+      </div>
+      <div
+        class="w-14 h-[77px] border overflow-hidden cursor-pointer relative"
+      >
+        <img
+          alt="Thumbnail 2"
+          data-nimg="fill"
+          decoding="async"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          src="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdxl-lydeljvb148a71.webp&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent;"
+        />
+      </div>
+      <div
+        class="w-14 h-[77px] border overflow-hidden cursor-pointer relative"
+      >
+        <img
+          alt="Thumbnail 3"
+          data-nimg="fill"
+          decoding="async"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          src="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rdwt-lydeljvb144o82.webp&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent;"
+        />
+      </div>
+      <div
+        class="w-14 h-[77px] border overflow-hidden cursor-pointer relative"
+      >
+        <img
+          alt="Thumbnail 4"
+          data-nimg="fill"
+          decoding="async"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          src="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd70-lu7m75qrwqihda.webp&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent;"
+        />
+      </div>
+      <div
+        class="w-14 h-[77px] border overflow-hidden cursor-pointer relative"
+      >
+        <img
+          alt="Thumbnail 5"
+          data-nimg="fill"
+          decoding="async"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          src="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd6a-lu7m75szs3i1cc.webp&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent;"
+        />
+      </div>
+      <div
+        class="w-14 h-[77px] border overflow-hidden cursor-pointer relative"
+      >
+        <img
+          alt="Thumbnail 6"
+          data-nimg="fill"
+          decoding="async"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          src="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd4m-lu7m75sfswqn05.webp&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent;"
+        />
+      </div>
+      <div
+        class="w-14 h-[77px] border overflow-hidden cursor-pointer relative"
+      >
+        <img
+          alt="Thumbnail 7"
+          data-nimg="fill"
+          decoding="async"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          src="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=3840&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134301-7rd73-lu7m75tjr9rted.webp&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent;"
+        />
+      </div>
+    </div>
+    <div
+      class="w-[491px] h-[654px] border overflow-hidden relative"
+    >
+      <img
+        alt="Selected"
+        data-nimg="fill"
+        decoding="async"
+        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+        src="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=3840&q=75"
+        srcset="/_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fdown-vn.img.susercontent.com%2Ffile%2Fsg-11134201-7rdxx-lz73hliz42dj59.webp&w=3840&q=75 3840w"
+        style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; object-fit: cover; color: transparent;"
+      />
+    </div>
+  </div>
+</div>
+`;

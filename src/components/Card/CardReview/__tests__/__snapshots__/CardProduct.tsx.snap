@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardReview should render correctly 1`] = `
+<div>
+  <div
+    class="relative overflow-hidden text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-small rounded-large transition-transform-background motion-reduce:transition-none w-[646px] h-[300px] py-10 px-12 flex flex-row items-center gap-4 border-none"
+    tabindex="-1"
+  >
+    <div
+      class="relative p-3 flex-auto flex-col place-content-inherit align-items-inherit break-words text-left overflow-y-auto subpixel-antialiased flex items-center w-[377px] h-[193px] rounded-regular"
+    >
+      <img
+        alt="James K."
+        data-nimg="fill"
+        decoding="async"
+        sizes="50vw"
+        src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
+        srcset="/_next/image?url=%2Fimg.jpg&w=384&q=75 384w, /_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
+        style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+      />
+    </div>
+    <div
+      class="p-3 flex overflow-hidden color-inherit subpixel-antialiased rounded-b-large w-full h-full flex-col items-start justify-center"
+    >
+      <p
+        class="text-primary-200 font-poppins font-normal mb-7"
+      >
+        "You won't regret it. I would like to personally thank you for your outstanding product. Absolutely wonderful!"
+      </p>
+      <div
+        class="w-full max-w-[230px] pb-7 border-b-1 border-b-primary-200"
+      >
+        <div
+          class="flex gap-1"
+        >
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+          <svg
+            class="lucide lucide-star fill-yellow-500 text-yellow-500"
+            fill="none"
+            height="19"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="19"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+            />
+          </svg>
+        </div>
+      </div>
+      <h4
+        class="text-2xl font-volkhov text-center mt-4"
+      >
+        James K.
+      </h4>
+      <p
+        class="mt-3 text-foreground-400 text-xs font-normal"
+      >
+        Traveler
+      </p>
+    </div>
+  </div>
+</div>
+`;

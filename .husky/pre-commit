@@ -1,0 +1,3 @@
+cd ./fasco
+npx lint-staged
+
